@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="43.763" height="44.017" viewBox="0 0 43.763 44.017">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#33b4ff"/>
+      <stop offset="1" stop-color="#00649e"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_1204472" data-name="Group 1204472" transform="translate(-568.118 -1698.788)">
+    <g id="Group_1204470" data-name="Group 1204470">
+      <g id="_x39_5_x2C__prototype_x2C__art_x2C__design_x2C__seo_x2C__interface" transform="translate(542.118 1675.288)">
+        <g id="XMLID_1433_" transform="translate(26 23.5)">
+          <g id="XMLID_1434_" transform="translate(0 0)">
+            <circle id="XMLID_1362_" cx="1.537" cy="1.537" r="1.537" transform="translate(12.661 2.527)" fill="url(#linear-gradient)"/>
+            <circle id="XMLID_1361_" cx="1.537" cy="1.537" r="1.537" transform="translate(40.322 34.797)" fill="url(#linear-gradient)"/>
+            <circle id="XMLID_1360_" cx="1.153" cy="1.153" r="1.153" transform="translate(1.136 3.295)" fill="url(#linear-gradient)"/>
+            <ellipse id="XMLID_1359_" cx="1.153" cy="0.768" rx="1.153" ry="0.768" transform="translate(20.345 7.137)" fill="url(#linear-gradient)"/>
+            <circle id="XMLID_1358_" cx="0.768" cy="0.768" r="0.768" transform="translate(22.65 34.797)" fill="url(#linear-gradient)"/>
+            <ellipse id="XMLID_1357_" cx="1.153" cy="0.768" rx="1.153" ry="0.768" transform="translate(32.638 42.481)" fill="url(#linear-gradient)"/>
+            <path id="XMLID_1356_" d="M320.086,23.5H309.039A3.043,3.043,0,0,0,306,26.539v1.718h17.125V26.539A3.042,3.042,0,0,0,320.086,23.5Z" transform="translate(-279.362 -23.5)" fill="url(#linear-gradient)"/>
+            <path id="XMLID_1355_" d="M306,285.218a3.042,3.042,0,0,0,3.039,3.039h11.047a3.042,3.042,0,0,0,3.039-3.039V283.5H306Z" transform="translate(-279.362 -258.764)" fill="url(#linear-gradient)"/>
+            <path id="XMLID_1354_" d="M306,93.014h8.841l-1.091-1.091a.476.476,0,0,1,.673-.673l1.9,1.9a.476.476,0,0,1,0,.673l-1.9,1.9a.476.476,0,0,1-.673-.673l1.091-1.091H306v7.611h17.125V83.5H306Z" transform="translate(-279.362 -77.792)" fill="url(#linear-gradient)"/>
+            <path id="XMLID_1353_" d="M34.087,246.819a3.33,3.33,0,1,1,3.3-3.805h5.743V233.5H26v18.076H43.125v-7.611H37.382A3.335,3.335,0,0,1,34.087,246.819Z" transform="translate(-26 -213.521)" fill="url(#linear-gradient)"/>
+            <path id="XMLID_1352_" d="M43.125,176.539a3.042,3.042,0,0,0-3.039-3.039H29.039A3.042,3.042,0,0,0,26,176.539v1.718H43.125Z" transform="translate(-26 -159.229)" fill="url(#linear-gradient)"/>
+            <path id="XMLID_1351_" d="M88.378,313.5a2.378,2.378,0,1,0,2.378,2.378A2.381,2.381,0,0,0,88.378,313.5Z" transform="translate(-80.292 -285.91)" fill="url(#linear-gradient)"/>
+            <path id="XMLID_1350_" d="M26,435.218a3.043,3.043,0,0,0,3.039,3.039H40.086a3.043,3.043,0,0,0,3.039-3.039V433.5H26Z" transform="translate(-26 -394.494)" fill="url(#linear-gradient)"/>
+            <path id="XMLID_1349_" d="M213.442,183.5a3.641,3.641,0,0,0-3.637,3.637v7.949a2.688,2.688,0,0,1-2.685,2.685H206v.951h1.12a3.641,3.641,0,0,0,3.637-3.637v-7.949a2.688,2.688,0,0,1,2.685-2.685h2.072V183.5Z" transform="translate(-188.875 -168.278)" fill="url(#linear-gradient)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
